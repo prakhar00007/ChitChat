@@ -25,7 +25,7 @@ https://github.com/prakhar00007/ChitChat/assets/92537028/e42a747d-94bb-4eb0-b820
 
 
 
-## 🔥Technologies Used
+## ⚡Technologies Used
 
 ChitChat leverages the following technologies:
 
@@ -53,7 +53,7 @@ ChitChat leverages the following technologies:
 
 - **Multi-room Chat**: Users can create or join multiple chat rooms, facilitating group discussions and collaboration.
 
-## ⚡Getting Started
+## 🏁 Getting Started
 
 To get started with the project, follow these steps:
 - **Clone the repository: Start by cloning the ChitChat repository to your local machine using the following command:**
