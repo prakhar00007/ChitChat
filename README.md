@@ -56,41 +56,41 @@ ChitChat leverages the following technologies:
 # Getting Started
 
 To get started with the project, follow these steps:
-- **Clone the repository: Start by cloning the ChitChat repository to your local machine using the following command: **
+- **Clone the repository: Start by cloning the ChitChat repository to your local machine using the following command:**
 ```
   git clone https://github.com/prakhar00007/ChitChat.git
 ```
 
-- **Install the dependencies: Navigate to the project directory and install the necessary dependencies for both the backend and frontend components. Use the following commands:
+- **Install the dependencies: Navigate to the project directory and install the necessary dependencies for both the backend and frontend components. Use the following commands:**
 ```
   cd front
   npm install
   cd server
   npm install
 ```
-- **Start the backend server: Open a new terminal, navigate to the server directory, and start the backend server using the following command:
+- **Start the backend server: Open a new terminal, navigate to the server directory, and start the backend server using the following command:**
 ```
   node index.js
 ```
-- **Start the frontend server: Open a new terminal, navigate to the client directory, and start the frontend server using the following command:
+- **Start the frontend server: Open a new terminal, navigate to the client directory, and start the frontend server using the following command:**
 ```
   npm start
 ```
-- **Access the application: Open your web browser and visit http://localhost:3000 to access the ChitChat application.
+- **Access the application: Open your web browser and visit http://localhost:3000 to access the ChitChat application.**
 
 # Future Enhancements
 
 ChitChat is an evolving project, and here are some potential future enhancements:
 
-- **User Authentication: Implement user authentication and authorization features to secure the application and provide personalized experiences.
+- **User Authentication**: Implement user authentication and authorization features to secure the application and provide personalized experiences.
 
-- **File Sharing: Enable users to share files with each other, fostering seamless collaboration.
+- **File Sharing**: Enable users to share files with each other, fostering seamless collaboration.
 
-- **Notifications: Implement real-time notifications to alert users about new messages, video call requests, or other important events.
+- **Notifications**: Implement real-time notifications to alert users about new messages, video call requests, or other important events.
 
-- **Emojis and Reactions: Add support for emojis and reactions in chat conversations to enhance expressiveness and engagement.
+- **Emojis and Reactions**: Add support for emojis and reactions in chat conversations to enhance expressiveness and engagement.
 
-- **User Profiles: Allow users to create profiles, set display pictures, and manage their preferences.
+- **User Profiles**: Allow users to create profiles, set display pictures, and manage their preferences.
 
 **Feel free to explore, modify, and enhance ChitChat according to your project requirements and vision. Happy coding and creating!**
 
