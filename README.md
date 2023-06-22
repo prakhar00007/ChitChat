@@ -78,6 +78,42 @@ To get started with the project, follow these steps:
 ```
 - **Access the application: Open your web browser and visit http://localhost:3000 to access the ChitChat application.**
 
+## 📸Snapshots
+<table>
+  <tr>
+    <td><img src="https://github.com/prakhar00007/ChitChat/assets/92537028/afd6ad77-a198-4387-bcb6-7e27173c4111" alt="Screenshot 2023-06-23 034751" /></td>
+    <td><img src="https://github.com/prakhar00007/ChitChat/assets/92537028/c904a9da-203e-4ec0-8e7c-aabb35ef27e2" alt="Screenshot 2023-06-23 034945" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/prakhar00007/ChitChat/assets/92537028/4f2dfb44-f1bc-414d-a710-a47b8cde1d28" alt="Screenshot 2023-06-23 035648" /></td>
+    <td><img src="https://github.com/prakhar00007/ChitChat/assets/92537028/6947ea0d-6d54-44ef-81ce-b17a067031fd" alt="Screenshot 2023-06-23 035753" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/prakhar00007/ChitChat/assets/92537028/8d18297b-bbee-4fc4-ba78-a4d577141b3e" alt="Screenshot 2023-06-23 035859" /></td>
+    <td><img src="https://github.com/prakhar00007/ChitChat/assets/92537028/c889b4d7-68af-4ab4-be2d-d5df2b6a5a81" alt="Screenshot 2023-06-23 035933" /></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="https://github.com/prakhar00007/ChitChat/assets/92537028/925aa2b0-f374-476c-8258-7bd90eb30055" alt="Screenshot 2023-06-23 040028" /></td>
+    <td><img src="https://github.com/prakhar00007/ChitChat/assets/92537028/e09a93e3-e746-4fd8-ad16-622ef1bbda77" alt="Screenshot 2023-06-23 040119" /></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
 ## 💡Future Enhancements
 
 ChitChat is an evolving project, and here are some potential future enhancements:
