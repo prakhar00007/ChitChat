@@ -86,7 +86,7 @@ ChitChat is an evolving project, and here are some potential future enhancements
 
 - **File Sharing**: Enable users to share files with each other, fostering seamless collaboration.
 
-- **Notifications**: Implement real-time notifications to alert users about new messages, video call requests, or other important events.
+- **Notifications**: Implement real-time notifications to alert users about video call requests, or other important events.
 
 - **Emojis and Reactions**: Add support for emojis and reactions in chat conversations to enhance expressiveness and engagement.
 
