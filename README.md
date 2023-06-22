@@ -78,7 +78,7 @@ To get started with the project, follow these steps:
 ```
 - **Access the application: Open your web browser and visit http://localhost:3000 to access the ChitChat application.**
 
-## 📸Snapshots
+## 📸 Snapshots
 <table>
   <tr>
     <td><img src="https://github.com/prakhar00007/ChitChat/assets/92537028/afd6ad77-a198-4387-bcb6-7e27173c4111" alt="Screenshot 2023-06-23 034751" /></td>
